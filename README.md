@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Durain Pay Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the frontend code for the Price Comparison Proof-of-Concept project. The web interface allows users to search for products, apply filters, and compare prices across different websites.
+
+## Features
+
+- Search for products using a specified keyword.
+- Apply filters for sorting results (highest price, lowest price, highest review & rating).
+- Set the number of top results to display.
+- Compare product prices across multiple websites.
+
+## Technologies Used
+
+- React
+- JavaScript/ES6
+- CSS (styles are currently embedded in components for simplicity)
 
 ## Available Scripts
 
