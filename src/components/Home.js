@@ -17,7 +17,7 @@ function Home() {
 
     const [keyWord,setKeyWord] = useState("");
     const [filter,setFilter] = useState("high_price");
-    const [top,setTop] = useState(2);
+    const [top,setTop] = useState(3);
     const [selected, setSelected] = useState([
         { label: "Ebay", value: "Ebay" },
         { label: "Flipkart", value: "Flipkart" },
